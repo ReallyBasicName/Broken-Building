@@ -1,0 +1,12 @@
+[
+	{
+		"name": "",
+		"replaces": "Shrine",
+		"uniqueTo": "Ethiopia",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
+	},
+]
